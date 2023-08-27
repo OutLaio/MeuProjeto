@@ -1,0 +1,2 @@
+Este projeto tem como objetivo conceber, construir e implementar um software de ponta
+ que aborde desafios específicos e ofereça uma experiência excepcional aos usuários.
