@@ -1,2 +1,10 @@
 Este projeto tem como objetivo conceber, construir e implementar um software de ponta
  que aborde desafios específicos e ofereça uma experiência excepcional aos usuários.
+
+Nossa abordagem se baseia em uma combinação de metodologias ágeis e práticas 
+ de engenharia de software, garantindo não apenas a entrega de um produto funcional,
+ mas também a manutenção da qualidade, escalabilidade e segurança ao longo do ciclo
+ de vida do software. Com uma equipe dedicada de desenvolvedores talentosos e 
+ especialistas do domínio, estamos comprometidos em superar obstáculos e transformar 
+ ideias em realidade por meio deste projeto de desenvolvimento de software.
+
